@@ -1,2 +1,9 @@
 This is a new file added to the PriceCalc branch 
+<<<<<<< HEAD
 now with 
+=======
+ddd
+ddd
+ddd
+ddd
+>>>>>>> ef5ac418b15b9e1ced0237622dca266f20a0af7f
