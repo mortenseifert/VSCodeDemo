@@ -1,2 +1,4 @@
 This file was also added to PriceCalc branch
 Her er der også ændret
+
+this line is also added on the ready branch
