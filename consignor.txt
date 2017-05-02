@@ -1,0 +1,6 @@
+528741;XF544693;00370716480424599096;Danske Fragtmænd;60;213,89;1;171,11
+1      2        3                    4                5  6      7 8
+so     pakke    spor                 leverandør       vægt
+                                                         kost
+                                                                kolli
+                                                                  rigtig kost
